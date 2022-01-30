@@ -1,0 +1,25 @@
+body{ background-color: #e6e6fa;
+  font-size: 8px; }
+h1 { color: white;
+    background: #191970; }
+p { color: #191970;
+    font-style: bold; }
+li { color: #191970;
+    font-style: bold; }
+h2 { color: #191970;
+    background: #aeaed4; }
+h1 {
+  text-shadow: 2px 2px grey;
+}
+body {padding-left: 10px}
+nav { font-weight: bold;
+    font-size: 1.25em;
+    word-spacing: 1em;
+    text-align: center; }
+dt { color: #191970; }
+dd { color: #191970; }
+footer { color: #191970;
+    text-align: center; }
+#wrapper{ margin-left: auto;
+    margin-right: auto;
+    width: 80%; }
